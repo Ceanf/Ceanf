@@ -46,23 +46,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cesar/cesar/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cesar/cesar/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cesar/cesar/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cesar/cesar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cesar/cesar/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cesar/cesar/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Cean/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Cean/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Cean/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Cean/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Cean/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Cean/2" alt="Medium post 3"  />
-  </a>
-</div>
 
 ###

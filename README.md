@@ -64,4 +64,10 @@ I'm a <strong>Software Engineering student from Peru 🇵🇪</strong>, passiona
   />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31qckb4ftgyfhfbucivhr7vv4qau&amp;theme=dark&amp;count=4&amp;width=620&amp;radius=13&amp;username=off&amp;footer=wave" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31qckb4ftgyfhfbucivhr7vv4qau&amp;theme=light&amp;count=4&amp;width=620&amp;radius=13&amp;username=off&amp;footer=wave" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31qckb4ftgyfhfbucivhr7vv4qau&amp;theme=dark&amp;count=4&amp;width=620&amp;radius=13&amp;username=off&amp;footer=wave" alt="Spotify recently played" width="620" />
+</picture>
+
 ###

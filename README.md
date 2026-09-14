@@ -1,103 +1,136 @@
 
-<!-- ========================= -->
-<!--       CODE BY CEAN        -->
-<!-- ========================= -->
-
 <div align="center">
 
-# Hey, I'm Cean 👋
+# ⚡ CODE BY CEAN
 
-### Software Engineering Student | Aspiring Software Developer
+### `Software Engineering Student` 💻
 
-*Building projects, learning new technologies and turning ideas into code.*
+*Turning ideas into code, one project at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ceanf-181717?style=for-the-badge&logo=github)](https://github.com/Ceanf)
-[![Instagram](https://img.shields.io/badge/Instagram-@cean__chavz_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cean_chavz_/)
+<img src="https://komarev.com/ghpvc/?username=Ceanf&label=PROFILE+VIEWS&color=00d9ff&style=flat-square" alt="Profile views"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ceanf-0d1117?style=for-the-badge&logo=github)](https://github.com/Ceanf)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-- 🎓 I'm studying **Software Engineering**.
-- 🌱 Currently learning backend development and software architecture.
-- ☕ Interested in Java, Spring Boot and web development.
-- 🚀 Building university and personal projects.
-- 🌊 I enjoy sunsets, water sports and exploring new ideas.
-- 🇵🇪 Based in Peru.
+## 👨‍💻 WHO AM I?
+
+</div>
+
+```text
+╔══════════════════════════════════════════╗
+║               CODE BY CEAN               ║
+╠══════════════════════════════════════════╣
+║ 🎓 Software Engineering Student          ║
+║ 🇵🇪 From Peru                             ║
+║ ☕ Java & Backend enthusiast              ║
+║ 🌊 Ocean lover & sunset chaser            ║
+║ 🚀 Building my future through code       ║
+╚══════════════════════════════════════════╝
+```
+
+- 🔭 Currently working on university and personal projects.
+- 🌱 Learning Java, Spring Boot and software architecture.
+- 💡 Interested in backend and full-stack development.
+- 🎯 My goal: become a better software engineer every day.
+- 🌅 Outside coding: sunsets, surf and water sports.
 
 ---
 
-## 🛠️ Languages & Technologies
-
 <div align="center">
 
-### Programming Languages
+## 🛠️ LANGUAGES • FRAMEWORKS • TOOLS
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,mysql,git,github,vscode,postman,figma" alt="Technologies"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 💼 Job Portal System
+## 🚀 FEATURED PROJECTS
 
-A university project focused on connecting applicants and companies through a web platform.
+</div>
 
-**Technologies:** Java · Spring Boot · Thymeleaf · MySQL
-
-🔗 [View my repositories](https://github.com/Ceanf?tab=repositories)
-
----
+<table>
+<tr>
+<td width="50%">
 
 ### 🌊 Surf Code
 
-A personal web project inspired by my interest in surfing and the ocean.
+Personal web project inspired by my passion for surfing and the ocean.
 
-**Technologies:** HTML · CSS · JavaScript
+**Stack:** HTML · CSS · JavaScript
 
-🔗 [View project](https://github.com/Ceanf/surf-code)
+[View repository →](https://github.com/Ceanf/surf-code)
+
+</td>
+<td width="50%">
+
+### 💼 Job Portal
+
+University project for connecting applicants and companies through a web platform.
+
+**Stack:** Java · Spring Boot · MySQL
+
+[View my repositories →](https://github.com/Ceanf?tab=repositories)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏢 BellDermoeEstetica
+
+Web project for an aesthetic center.
+
+**Stack:** HTML · CSS · JavaScript
+
+[View repository →](https://github.com/Ceanf/web.belldermoeestetica)
+
+</td>
+<td width="50%">
+
+### 🧪 JavaScript Projects
+
+Experiments, university exercises and web development practice.
+
+**Stack:** JavaScript · HTML · CSS
+
+[Explore my code →](https://github.com/Ceanf?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
-
-### 🌐 Web BellDermoeEstetica
-
-A web project for an aesthetic center.
-
-**Technologies:** HTML · CSS · JavaScript
-
-🔗 [View my repositories](https://github.com/Ceanf?tab=repositories)
-
----
-
-## 📊 GitHub Activity
 
 <div align="center">
 
-![Cean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ceanf&show_icons=true&theme=dark&hide_border=true&count_private=true)
+## 📊 GITHUB STATS
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceanf&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ceanf&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceanf&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
 
+## 🎯 2026 — THE GRIND NEVER STOPS
+
+</div>
+
+- [x] Create my GitHub profile.
+- [x] Build personal and university projects.
 - [ ] Improve my Java and Spring Boot skills.
 - [ ] Build complete full-stack applications.
 - [ ] Learn more about software architecture.
@@ -108,7 +141,17 @@ A web project for an aesthetic center.
 
 <div align="center">
 
+## 🦖 KEEP CODING...
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" alt="Animated dinosaur game"/>
+
+<br>
+
 ### Thanks for visiting my profile! ⚡
+
+<sub>Made with ☕ and a little bit of chaos.</sub>
+
+<br><br>
 
 *"Call it my own decisions, call it God."*
 

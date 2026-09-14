@@ -10,7 +10,7 @@
 
 
 <p align="left">
-I'm a <strong>Software Engineering student from Peru 🇵🇪</strong>, passionate about programming, building real-world projects, and learning through every challenge. Currently exploring <strong>Java, Spring Boot, and software architecture</strong>, turning ideas into code and growing as a developer. Outside of coding, I enjoy sunsets, surfing, and water sports. 🌊
+Currently exploring <strong>Java, Spring Boot, and software architecture</strong>, turning ideas into code and growing as a developer. Outside of coding, I enjoy sunsets, surfing, and water sports. 🌊
 </p>
 
 ###

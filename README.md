@@ -8,7 +8,10 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a **Software Engineering student from Peru 🇵🇪**, passionate about programming, web development, and building real-world projects. Currently learning **Java, Spring Boot, and software architecture**, while exploring new technologies and improving my skills. 🚀 Outside of coding, I enjoy sunsets, surfing, and water sports. 🌊</p>
+
+<p align="left">
+I'm a <strong>Software Engineering student from Peru 🇵🇪</strong>, passionate about programming, building real-world projects, and learning through every challenge. Currently exploring <strong>Java, Spring Boot, and software architecture</strong>, turning ideas into code and growing as a developer. Outside of coding, I enjoy sunsets, surfing, and water sports. 🌊
+</p>
 
 ###
 
@@ -47,9 +50,18 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ceanf/Ceanf/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ceanf/Ceanf/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/Ceanf/Ceanf/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ceanf/Ceanf/pacman-output/bomberman-contribution-graph-dark.svg?v=2"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ceanf/Ceanf/pacman-output/bomberman-contribution-graph.svg?v=2"
+  />
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/Ceanf/Ceanf/pacman-output/bomberman-contribution-graph.svg?v=2"
+  />
 </picture>
 
 ###
